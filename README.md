@@ -2,5 +2,5 @@
 
 2022-11-16
 <h4>Tailwind css study</h4>
-ㅇ 기본 속성들 실습
+ㅇ 기본 속성들 실습<br>
 ㅇ flex 사용
