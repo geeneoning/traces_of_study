@@ -3,12 +3,12 @@
 2022-11-16
 <h4>Tailwind css study</h4>
 ㅇ 기본 속성들 실습<br>
-ㅇ flex 사용<br><br>
-___________________________
+ㅇ flex 사용___________________________<br><br>
+
 2022-11-17
 <h4>Tailwind css study</h4>
 ㅇ grid 사용<br><br>
-___________________________
+
 2022-11-18
 <h4>Tailwind css study</h4>
-ㅇ transition 사용<br><br>
+ㅇ transition 사용___________________________<br><br>
