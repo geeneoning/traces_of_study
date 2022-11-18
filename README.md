@@ -7,4 +7,9 @@
 
 2022-11-17
 <h4>Tailwind css study</h4>
-ㅇ grid 사용
+ㅇ grid 사용<br><br>
+
+2022-11-18
+<h4>Tailwind css study</h4>
+ㅇ transition 사용<br><br>
+
